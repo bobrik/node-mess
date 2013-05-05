@@ -26,5 +26,5 @@ Because naming modules is hard and shuffle is already taken.
 
 ## Authors
 
-[Ronald Fisher and Frank Yates](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
-[People on internet](http://stackoverflow.com/questions/6274339/how-can-i-shuffle-an-array-in-javascript#6274398)
+* [Ronald Fisher and Frank Yates](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
+* [People on internet](http://stackoverflow.com/questions/6274339/how-can-i-shuffle-an-array-in-javascript#6274398)
