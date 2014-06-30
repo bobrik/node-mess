@@ -20,5 +20,9 @@
     "array"
   ],
   "author": "Ian Babrou <ibobrik@gmail.com> (http://bobrik.name/)",
-  "license": "BSD"
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/bobrik/node-mess/issues"
+  },
+  "homepage": "https://github.com/bobrik/node-mess"
 }
