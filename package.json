@@ -1,6 +1,6 @@
 {
   "name": "mess",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Mess is Fisher–Yates shuffle algorithm implementation for node.js",
   "main": "index.js",
   "scripts": {
